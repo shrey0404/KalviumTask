@@ -1,6 +1,6 @@
 # 2024 Lok Sabha Elections Data Analysis
 
-![Election Analysis](election_analysis_image.jpg)
+![Election Analysis]([election_analysis_image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FANI%2Fstatus%2F1127531599556489216&psig=AOvVaw3nj1fsmf6wdMgPDlnRCEtt&ust=1719835431011000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDLh7Gkg4cDFQAAAAAdAAAAABAE))
 
 ## Overview
 This project analyzes the results of the 2024 Lok Sabha Elections in India, focusing on party-wise insights and trends. It provides a detailed exploration of electoral data using Python in Jupyter Notebook, aimed at understanding political dynamics and regional influences.
